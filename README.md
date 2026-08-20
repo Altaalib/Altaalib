@@ -1,102 +1,74 @@
-# Hello, World! 👋
+# Hi, I'm Ismayil 👋
 
-My name is Ismayil, and I am a student at DSTU, where I have been actively studying computer science and programming for over four years.
+I'm a Go backend developer focused on high-load and event-driven systems.
+
+I work mostly with distributed backend services, reliable event processing, Kafka, PostgreSQL, and production infrastructure
+
+ru
+Go backend-разработчик. Основной опыт — высоконагруженные и event-driven системы, Kafka, PostgreSQL, распределённая обработка событий и production reliability
+
+Работаю с retry/DLQ, Kafka consumers, transactional outbox, observability и производительностью Go-сервисов.
 
 ## About Me
-- 🎓 Student at DSTU, specializing in computer science
-- 💻 Over 4 years of programming experience
-- ☕ Main focus is Java development(Spring Framework)
-- 🗃️ Work with PostgreSQL, MySQL, SQLite
-- 🛠️ Learning Go and MongoDB
-- 🧠 I studied OOP in C++
-- 🐍 Occasionally write code in Python(Flask)
-- 🌐 Build small websites
-- 💼 Collaborating on startup projects "Sputnik", "SwipeUp" and "Дай лапу" as part of a team
-- 🐧 I have a passion for Linux and enjoy writing Bash scripts
-- 🔐 The new craze is application security
 
-## My Experience
-- I worked as a freelancer, developing various projects on demand.
-- Currently, I work with a team on startup projects and act as both a developer and technical lead on the team.
+- 💻 5+ years of commercial backend development experience
+- 🐹 Main language: Go
+- ⚙️ Focus: high-load backend systems, event-driven architecture, distributed systems
+- 📨 Practical experience with Kafka consumers, retry processing, DLQ, transactional outbox, idempotency
+- 🗃️ Work with PostgreSQL, MongoDB and Redis
+- 🔌 Build REST and gRPC services
+- ☸️ Deploy and operate services in Kubernetes
+- 📊 Work with Prometheus, Grafana, OpenTelemetry and pprof
+- 🧪 Use integration testing with Testcontainers
+- 🛠️ Take ownership of components from design and implementation to monitoring and production incidents
 
-## My Skills
-- Java
-- Spring Framework
+## Current Focus
+
+Currently I work on an internal event-processing platform.
+
+My main areas of responsibility include:
+
+- centralized retry processing
+- DLQ management and replay workflows
+- shared Go SDK for Kafka consumers
+- observability and production reliability
+- performance profiling and optimization
+
+I enjoy working on problems where reliability matters: duplicate delivery, retries, concurrency, consistency, backpressure and failure recovery.
+
+## Tech Stack
+
+### Backend
+- Go
 - PostgreSQL
-- MySQL
-- SQLite
 - MongoDB
 - Redis
-- Aiogram
-- Python (Flask)
-- Linux
-- Bash
-- C++ (Qt)
-- HTML/CSS/JS
-- Vue.js
-- Go
+- Kafka
+- gRPC
+- REST
 
-## Contact Me
-You can always reach out to me via:
-- Email: ismayil.mukhtadov@gmail.com
-- Telegram: [AltaalibIso](https://t.me/AltaalibIso)
+### Infrastructure
+- Kubernetes
+- Argo CD
 
-## Collaboration
-If you have interesting projects or collaboration proposals, feel free to contact me. I'm always open to new opportunities!
+### Observability
+- Prometheus
+- Grafana
+- OpenTelemetry
+- pprof
 
-## Thank You
-Thank you for visiting my profile! I hope you found something interesting here. Don't forget to leave a star ⭐ on your favorite repositories!
+### Testing
+- Testcontainers
 
--------------------------------------------------------------------------------------------------------------------------------------
-Russian translation
--------------------------------------------------------------------------------------------------------------------------------------
+## Other Experience
 
-# Привет, мир! 👋
+Earlier in my career I also worked with Java/Spring, MySQL, RabbitMQ, ClickHouse, GraphQL and several other backend technologies.
 
-Меня зовут Исмайил, и я студент ДГТУ, где активно занимаюсь изучением компьютерных наук и программирования уже более четырех лет.
+I also built and technically led a small startup project, SwipeUp.
 
-## Обо мне
-- 🎓 Студент ДГТУ, специализируюсь в области компьютерных наук
-- 💻 Более 4 лет опыта программирования
-- ☕ Основное направление - разработка на Java (Spring Framework)
-- 🗃️ Работаю с PostgreSQL, MySQL, SQLite
-- 🛠️ Изучаю Go и MongoDB
-- 🧠 Изучал ООП на C++
-- 🐍 Иногда пишу код на Python (Flask)
-- 🌐 Создаю небольшие веб-сайты
-- 💼 Участвую в стартап-проектах "Sputnik", "SwipeUp" и "Дай лапу" в команде
-- 🐧 Обожаю Linux и наслаждаюсь написанием скриптов на Bash
-- 🔐 Новое увлечение - безопасность приложений
+## Education
 
-## Мой опыт
-- Работал фрилансером, разрабатывал различные проекты на заказ.
-- В настоящее время работаю в команде над стартап-проектами и выступаю в роли разработчика и технического лидера.
+🎓 Bachelor's degree in Computer Science / Software Engineering  
+🎓 Currently studying for a Master's degree in Software Engineering at BMSTU
 
-## Мои навыки
-- Java
-- Spring Framework
-- PostgreSQL
-- MySQL
-- SQLite
-- MongoDB
-- Redis
-- Aiogram
-- Python (Flask)
-- Linux
-- Bash
-- C++ (Qt)
-- HTML/CSS/JS
-- Vue.js
-- Go
-
-## Свяжитесь со мной
-Вы всегда можете связаться со мной по следующим каналам:
-- Email: ismayil.mukhtadov@gmail.com
-- Telegram: [AltaalibIso](https://t.me/AltaalibIso)
-
-## Сотрудничество
-Если у вас есть интересные проекты или предложения о сотрудничестве, не стесняйтесь связаться со мной. Я всегда открыт для новых возможностей!
-
-## Спасибо
-Спасибо за посещение моего профиля! Надеюсь, здесь вы нашли что-то интересное. Не забудьте поставить звездочку ⭐ на свои любимые репозитории!
 
